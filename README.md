@@ -11,7 +11,7 @@ A Python project that allows you to interactively visualize and explore Support 
 * Customizable parameters: Use buttons, sliders, and radio buttons to adjust the SVM model's kernel type, gamma value, and other parameters.
 
 # Usage
-1. Run the svm_plot.py script.
+1. Run the main.py script.
 2. Interact with the plot:
    * Left-click on the plot to add data points for class P.
    * Right-click on the plot to add data points for class N.
