@@ -3,6 +3,8 @@ Visualize and Explore Support Vector Machines (SVMs) with SVMXplorer. This inter
 
 A Python project that allows you to interactively visualize and explore Support Vector Machine (SVM) models using matplotlib and widgets.
 
+![Images](Images/SVMXplorer_screenshot)
+
 # Features
 * Interactive plot: Click on the plot to add data points belonging to two classes.
 * Real-time training: The SVM model is trained on the collected data points and the decision boundary is updated in real-time.
