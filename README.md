@@ -10,6 +10,8 @@ A Python project that allows you to interactively visualize and explore Support 
 * Real-time training: The SVM model is trained on the collected data points and the decision boundary is updated in real-time.
 * Customizable parameters: Use buttons, sliders, and radio buttons to adjust the SVM model's kernel type, gamma value, and other parameters.
 
+![](https://github.com/danButensky/SVMXplorer/blob/main/Images/SVMxplorer_vid.gif)
+
 # Usage
 1. Run the main.py script.
 2. Interact with the plot:
